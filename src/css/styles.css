@@ -165,3 +165,25 @@ body, html {
     text-align: center;
     font-size: 22px; /* Aumenta o tamanho da fonte do conteúdo */
 }
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+.footer-content {
+    max-width: 800px;
+    margin: auto;
+}
+
+.social-links a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 10px;
+    font-size: 20px;
+}
+
+.social-links a:hover {
+    color: #ccc;
+}
