@@ -47,6 +47,13 @@ body, html {
     display: none;
 }
 
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: auto;
+}
+
 /* Responsiveness */
 @media (max-width: 768px) {
     #navbar {
