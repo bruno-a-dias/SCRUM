@@ -159,6 +159,16 @@ body, html {
     color: #ffffff; /* White */
 }
 
+#simulado {
+    background-color: #3eb164; /* Pink */
+    color: #ffffff; /* White */
+}
+
+#manifesto {
+    background-color: #262e50; /* Pink */
+    color: #ffffff; /* White */
+}
+
 .content {
     max-width: 800px;
     margin: auto;
